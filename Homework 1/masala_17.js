@@ -1,0 +1,44 @@
+let month = +prompt("Oyni kiriting: ");
+
+switch (month){
+    case 1 :
+        alert('Yanvar');
+        break
+    case 2 :
+        alert('Fevral');
+        break
+    case 3 :
+        alert('Mart');
+        break
+    case 4 :
+        alert('Aprel');
+        break
+    case 5 :
+        alert('May');
+        break
+    case 6 :
+        alert('Iyun');
+        break
+    case 7 :
+        alert("Iyul");
+        break
+    case 8 :
+        alert("Avgust");
+        break
+    case 9 :
+        alert("Sentabr");
+        break
+    case 10 : 
+        alert("Oktabr");
+        break
+    case 11 :
+        alert("Noyabr");
+        break
+    case 12 :
+        alert("Dekabr");
+        break
+        
+    default : 
+    alert("Bunday oy mavjud emas")
+    
+}
