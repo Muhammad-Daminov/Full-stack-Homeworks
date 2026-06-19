@@ -1,3 +1,5 @@
+// Chaka hali bitmagan
+
 const users = [
  { name: "Ali", city: "Tashkent" },
  { name: "Vali", city: "Samarqand" },
